@@ -9,7 +9,3 @@ WekWebview的优势
 5.Safari相同的JavaScript引擎
 6.提供常用的属性，如加载网页进度的属性estimatedProgress
 
-作者：清风的小屋
-链接：https://www.jianshu.com/p/e537e6587274
-来源：简书
-简书著作权归作者所有，任何形式的转载都请联系作者获得授权并注明出处。
